@@ -4,7 +4,7 @@ go 1.12
 
 require (
 	github.com/fsnotify/fsnotify v1.4.7
-	github.com/wadewomersley/kin-openapi v0.13.1
+	github.com/wadewomersley/kin-openapi v0.2.3
 	github.com/gobwas/glob v0.2.3
 	github.com/magiconair/properties v1.8.1 // indirect
 	github.com/pelletier/go-toml v1.4.0 // indirect
