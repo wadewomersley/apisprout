@@ -18,8 +18,8 @@ import (
 	"time"
 
 	"github.com/fsnotify/fsnotify"
-	"github.com/getkin/kin-openapi/openapi3"
-	"github.com/getkin/kin-openapi/openapi3filter"
+	"github.com/wadewomersley/kin-openapi/openapi3"
+	"github.com/wadewomersley/kin-openapi/openapi3filter"
 	"github.com/gobwas/glob"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
