@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/getkin/kin-openapi/openapi3"
+	"github.com/wadewomersley/kin-openapi/openapi3"
 	"github.com/spf13/viper"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

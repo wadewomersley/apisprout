@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/getkin/kin-openapi/openapi3"
+	"github.com/wadewomersley/kin-openapi/openapi3"
 )
 
 // Mode defines a mode of operation for example generation.
